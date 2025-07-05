@@ -1,0 +1,11 @@
+Flask==2.3.2
+deepface==0.0.79
+opencv-python==4.9.0.80
+gTTS==2.5.1
+requests==2.31.0
+numpy==1.24.3
+Pillow==10.3.0
+tensorflow==2.12.0
+keras==2.12.0
+matplotlib==3.7.1
+openvino==2023.3.0
