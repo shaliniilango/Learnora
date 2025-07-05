@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Learnora</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: url('/static/media/gif1.gif') no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Segoe UI', sans-serif;
+            color: white;
+            text-align: center;
+        }
+
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.7);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 4em;
+            margin-bottom: 10px;
+            color: #FFD700;
+            text-shadow: 2px 2px 8px #000;
+        }
+
+        h3 {
+            font-size: 1.8em;
+            margin-bottom: 30px;
+            color: #EEE;
+        }
+
+        .start-button {
+            padding: 15px 35px;
+            font-size: 1.2em;
+            font-weight: bold;
+            background: #00c3ff;
+            color: white;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            box-shadow: 0px 4px 15px rgba(0, 195, 255, 0.5);
+            transition: all 0.3s ease-in-out;
+        }
+
+        .start-button:hover {
+            background-color: #008db8;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay">
+        <h1>Welcome to Learnora</h1>
+        <h3>Learning Reinvented with AI and Emotion Recognition</h3>
+        <form action="/detect" method="get">
+            <button class="start-button">🚀 Start</button>
+        </form>
+    </div>
+</body>
+</html>
+
