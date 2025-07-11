@@ -201,6 +201,9 @@ TTS Generation	Audio File Size	~10–50 KB / prompt
 
 ![Confusion Prompt](https://github.com/shaliniilango/Learnora/blob/main/Learnora/output/alertbox.png)
 
+## Demo Video 📽️
+
+🎥 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1V1EnHUEOELyAIBxWNSOiYuKk-jhTAZYp/view?usp=sharing)
 
 
 
