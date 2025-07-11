@@ -1,6 +1,24 @@
 # Learnora
 Learnora is a smart learning assistant that uses real-time emotion recognition and AI-powered chatbot responses to enhance virtual education. Built with Flask, DeepFace, OpenVINO, and integrated with a local LLM (Phi-3 via Ollama), it offers personalized help to students based on their facial expressions and emotional state.
 
+## 📑 Table of Contents
+- [🎯 Problem Statement](#problem-statement)
+- [✨ Features](#features)
+- [🧠 Technologies Used](#technologies-used)
+- [🧰 Project Structure](#project-structure)
+- [🧪 Emotion Detection Pipeline](#emotion-detection-pipeline)
+- [🧠 LLM Integration via Ollama](#llm-integration-via-ollama)
+- [🔊 Text-to-Speech Pipeline](#text-to-speech-pipeline)
+- [⚙️ Installation Instructions](#installation-instructions)
+- [📊 Result Metrics](#result-metrics)
+- [🖼️ Output Screenshots](#output-screenshots)
+- [📽️ Demo Video](#demo-video)
+- [🔚 Conclusion](#conclusion)
+- [📄 License](#license)
+- [🙋‍♀️ Author](#author)
+
+
+  
 ## 🎯 Problem Statement
 
 Many students hesitate to raise doubts during virtual learning. Traditional learning tools lack emotional awareness, making it difficult to identify disengaged or confused learners. Learnora solves this by:
