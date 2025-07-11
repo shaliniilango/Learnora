@@ -183,6 +183,27 @@ LLM Response Time	Response Time (Phi-3)	~1–3 seconds (depending on hardware)
 
 TTS Generation	Audio File Size	~10–50 KB / prompt
 
+## Output Screenshots 🖼️
+
+### 🎭 Emotion Detection Output
+
+![Emotion Detection](https://github.com/shaliniilango/Learnora/blob/main/Learnora/output/emotion_detection.png)
+
+---
+
+### 🤖 Chatbot Interface Output
+
+![Chatbot Response](https://github.com/shaliniilango/Learnora/blob/main/Learnora/output/chatbot2.png)
+
+---
+
+### 📈 Confusion Prompt with Yes/No
+
+![Confusion Prompt](https://github.com/shaliniilango/Learnora/blob/main/Learnora/output/alertbox.png)
+
+
+
+
 
 🔚 Conclusion
 
