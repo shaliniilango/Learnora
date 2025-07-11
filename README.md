@@ -171,6 +171,9 @@ If Yes → Chatbot opens
 
 User speaks/types question → Answer shown and spoken.
 
+---
+
+
 📊 Result Metrics
 
 Component	Metric	Value / Comment
@@ -182,6 +185,10 @@ Face Detection Speed	Inference Time	~5–10 ms per frame using OpenVINO
 LLM Response Time	Response Time (Phi-3)	~1–3 seconds (depending on hardware)
 
 TTS Generation	Audio File Size	~10–50 KB / prompt
+
+
+---
+
 
 ## Output Screenshots 🖼️
 
@@ -201,21 +208,33 @@ TTS Generation	Audio File Size	~10–50 KB / prompt
 
 ![Confusion Prompt](https://github.com/shaliniilango/Learnora/blob/main/Learnora/output/alertbox.png)
 
+---
+
+
 ## Demo Video 📽️
 
 🎥 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1V1EnHUEOELyAIBxWNSOiYuKk-jhTAZYp/view?usp=sharing)
 
-
+---
 
 
 🔚 Conclusion
 
 Learnora combines emotion AI and generative AI to make virtual learning more responsive and empathetic. By proactively assisting students when they’re confused, it replicates the experience of an attentive human tutor, making education more inclusive, intelligent, and impactful.
 
+---
 
-📄 License
 
-MIT License – feel free to use, share, and contribute!
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**.  
+You are free to use, modify, and distribute this project, provided that you include proper attribution and retain the license notice in any copies or substantial portions of the Software.
+
+📄 [View Full License](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+---
+
 
 🙋‍♀️ Author
 
